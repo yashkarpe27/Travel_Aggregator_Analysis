@@ -1,5 +1,7 @@
 # Travel_Aggregator_Analysis
+
 Scenario
+
 Travelling has significantly changed thanks to technology. In the earlier days, it was not
 easy to travel as booking journeys used to be a hassle, where people needed to contact
 travel agents, get prices and then do a lot of paperwork.
